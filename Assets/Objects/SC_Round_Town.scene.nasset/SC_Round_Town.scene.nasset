@@ -1,0 +1,2134 @@
+{
+    "guid": "814a8a47-9da5-48d2-6b51-942f4645b93f",
+    "source": "../SC_Round_Town.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "eb720069-4908-fe3e-ac6e-ce1dc3d3d679",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Round Town"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1f7cc034-8e67-f600-d086-e470b396000c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Arrow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "610f5d4e-5291-63f8-b258-fcb8c24fc51f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4f74386f-d014-44e2-45e1-9fb4082e44de",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Arrows"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f42931c2-385a-aef7-676d-2d370fb03d40"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2bc443c4-063d-46ca-3802-f7589783b928",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Barrel"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1a3972b4-75ea-33c7-5c3c-1a6da22d1038"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "712cbbbd-2193-b4c5-4fd8-75536609b03d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bomb"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7e2b1139-000c-73a0-0c1c-78482f8b1166"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ed9f9af8-6c3b-4bb4-3330-ec50a675bd84",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Button Round"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ed671d77-d40a-fcbf-1155-c3791d040430"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7468244a-c37d-8ed3-81f0-84e3a30d4eb9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Button Round Frame"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d3b291f3-671a-a930-6ad0-94e5bb2dd4ea"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "80fea884-96f3-03d4-2a19-fc9c8d206529",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Button Square"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "256aa3b8-354f-1d47-df7c-fc5a1fbf960c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "390633bb-5e24-bdc1-a6d6-8210eb26f1f4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Button Square Frame"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f476483c-c26d-a09b-f02c-5c5e60a13dff"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "11733234-78d2-8c88-ed0d-55fadbede131",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Chest"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a9acaadc-d56d-e719-acb5-1803eaff648d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "70f2b40a-0fad-93ea-e680-79d36cc81980",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Chest Lid"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9bb0f8e4-f977-778d-dfc6-3fee0b929127"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c706a6b5-cc38-31d4-4716-c7a2a8264871",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coin Bronze"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b514081c-a63b-c093-5636-a1cd139112fb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "25b765c9-2e02-5391-99c9-0f0c32a58334",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coin Gold"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d4223d4d-9e9a-64aa-7caa-d9b34e359f63"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "21cf7f34-47e3-4267-a780-009e4801752e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coin Silver"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e8349c62-1ae5-d869-86bc-3a1c84f968af"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a4b80c5f-be9f-6087-695f-afef31c1b483",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4e29a2d2-508f-802f-ca23-1bab2eeac81a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9cb7364f-4c47-4ff9-5e7b-4c54cb121dc5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate Item"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b9378cfa-0260-ed59-a000-47014fd2355d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "abeaad7e-f517-99e1-af17-6187f7c087c0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate Item Strong"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8f341681-4713-0264-8123-df3aa8effd44"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2fed3597-fbfb-2108-a00a-01ebf944dafe",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate Strong"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bbacabd0-af2f-090d-3f43-39f68363c57d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ee37df5d-5da0-205e-e7bf-f135f4026328",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Door"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1badfa3c-e2ee-02e3-41b7-cdf5438e6d41"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7a7ab925-1331-e362-b60a-d4be9a98b8da",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Door Frame"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d62d2474-d54b-7862-93f1-67ab0e3222a5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3d4e889b-5873-7c3b-713d-a5a291713798",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Door Large Open"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ba50f56f-4ba7-9c79-0618-28d3a190992e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f4fe9624-0eb3-0a4e-94e8-14046fb9b708",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Door Open"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "de509329-c8ec-af7e-3322-59fc93510a01"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "477bdba0-852a-28b8-8fa5-df2a6e32b816",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Door Wide"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "05595b1f-93d5-1e41-7f84-051b87d339e0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f4668db8-2f2c-94ba-2532-33e1f54fee4f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Door Wide Frame"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b27e64bb-8d8c-d6ab-b20a-abffc9f533db"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8bb15846-cc00-1e0c-1d69-5917d6895308",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence Broken"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7ed80c61-452a-c0c0-bd2c-f5ac7db42166"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f6c5f581-f96d-830d-342e-73ba3154082c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence Corner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e7c649e4-e9db-3d1f-acf2-237325fb822b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ece28369-922d-45d7-1616-2fe801278e27",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence Corner Curved"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0b787b64-fcdf-1da8-ae4a-0e556425c818"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "adbd1bde-ceeb-7b7f-45ec-4f1230277c1e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence Low Broken"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "824f841a-b793-4ef4-71fa-1c01aa4a8941"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a939cef4-4896-6797-f2fd-043ba33305c6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence Low Corner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "867aa095-5aca-16d5-4314-de3ee8685146"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5c3e71e9-9521-1fdb-101b-7ef145d227d1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence Low Corner Curved"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ee4d6ebe-b535-4826-212c-61514565d589"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0d72001c-89e3-ed6a-d146-71b0a65aaa49",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence Low Straight"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2faf1835-90a3-c1e4-ce22-6d192eb9b750"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6a153ea4-b256-f67f-7a1d-4a7b4c506859",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence Straight"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8e5fdbab-223f-c855-2393-fad2367411dc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f45b21e6-fb51-25e1-5110-9e387f0c1ca5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Flag"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "89c970c1-f630-e7f4-cead-8a3320d9f906"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2476e44e-b41a-8e03-c919-bcac08728556",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Flowers"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d355ec57-df28-48c6-b935-517a28b99544"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d338a3f0-2263-9054-b05f-485aa1fff30b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Flowers Tall"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d8dea020-9546-5e9b-ba86-9e72ee741b10"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "de4a7105-1429-fc2c-c916-4518018ce94b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Grass"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6c0818bc-b14b-86a4-7d56-6f6b9bf3faca"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2543cda5-cd2e-c015-62ea-6de044b08ce1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Heart"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c61464cf-4330-5df8-5e76-9fe9afc15094"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "73e3e4db-419e-e6b7-ded0-5984ea5c0724",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hedge"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b27c0c5b-82e9-e4f4-b7da-269ab07d85cb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d2c944c3-7a8e-e171-07ff-a60597ba4a0e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hedge Corner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "419d905a-04fc-04f2-0d3e-409ab1632835"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "65b29413-616f-a594-0e8b-64f47f3a8751",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Jewel"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "41a38fe3-6bf6-ea29-7efe-0eeb89f998f6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0aef7672-a295-ece8-be7d-c234c2e6544f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Key"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "68bb3fab-dd98-499f-3e85-36f1fc9f2f7d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5d4d7f41-ac1c-3a82-0a79-e8fa3ffc3f3e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ladder"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0eaacdfd-9a58-b013-1934-1a2c6ad73008"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d75fc454-4297-33e6-3c69-f634b1bb5f99",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ladder Broken"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "11b9de17-9ef3-2efb-1ca3-a501502d5efd"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "cc09effc-cdd0-00c7-238f-8dcf892053c6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ladder Long"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "78a4ed49-d0fe-5870-6400-6f923ddf0900"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "802e17f2-5dd9-4608-e98b-9d11d5199bf8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Lever Frame"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "76de205c-047d-790e-7b17-dc82357450dc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f48e1048-3bf9-3444-e110-e50116aa5d83",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Lever Handle"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "aec78e2b-3ea8-1a78-20fc-7aaef97d8026"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e6b91534-d2aa-6423-2b60-dbf13469ac22",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Lock"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "89ad4257-6126-7fdf-592b-e696740ca6f7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9e2838a0-9de6-cf9f-e437-c53b831c9925",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mushrooms"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0d8455c7-42fb-e4e6-209a-7d4602d5a0f3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "14021127-008a-d567-fa54-e904465268b3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Plant"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1bf9c0c6-9ef0-b7ab-fec4-8006d4d9e7d3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "384b5060-7b91-f219-f601-63da1d041536",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Platform"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "dd7478f8-6cea-c978-12d3-b09f767d8b3d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "48921040-8186-d95c-ffe5-fc2167ad7342",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Platform Fortified"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6196c02f-0826-a61a-b67e-595061441e81"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ae857e19-0117-0cd0-d5b6-4f22f3f44e07",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Platform Overhang"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7b56bea7-c64b-382e-ae92-d832b9b9b204"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9b15f79e-1902-be04-d798-fc10fe6491c1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Platform Ramp"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "021c1c80-4c5b-977f-fe0d-790536ee79a9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "30f231a7-4cb9-143f-4f9c-2e482ae15111",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Poles"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f34558cd-3895-4ebb-2ca6-5583b0c7ff81"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7ac57134-8aab-f99c-9119-721d293f05e2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rocks"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d54d1488-bfd1-238d-4502-10f21b921980"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0ed81ff8-2832-6830-3fdc-b05ac3dc1eb9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Saw"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fa3a8dbe-de56-e837-8615-99a42b357150"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "db08b72f-e244-d362-2783-65637cd3e166",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Saw Frame"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "cbd481c0-b84e-a6c3-67db-3f31fe4f9a4a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8784fb70-6006-88a1-2eb9-495fddb336ce",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sign"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d1effb3e-f1a0-f499-492e-d36cbe6447db"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3ead2f00-d95c-1400-b0d5-a81f6e21be2a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spike Block"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d5b8fbfa-15cc-c78b-cf09-a518aba45e94"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "486f2961-04f7-7074-9d4a-f7002dbbb852",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spike Block Wide"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9438295a-c471-e3c5-e9a9-7bf81ce5d164"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0fc6efb7-ed30-d7a3-2d63-f6f68ec1f8b1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stones"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0325fcdf-c162-8636-3eb9-b0e6743668f8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "de4de119-53fb-d21f-17d4-1adef6f87246",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Trap Spikes"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b01441fe-1332-ba69-2302-ba4d6aecd93f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ac037d0a-a47a-6104-7267-2b6917ed90bb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Trap Spikes Frame"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c76b839e-60bc-1857-ea51-734e918bab12"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1c005540-e868-56fe-009a-12c71a17c2c5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Trap Spikes Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "25520638-1520-2f52-5fad-a295c46fd25f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c0bc3651-9a32-84a9-8e6f-fd4b459f9381",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Trap Spikes Large Frame"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e11cde57-54f8-7ff6-3c80-5ac5aa06bd76"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "417fcb67-7ac6-d509-1436-668e17f2b173",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6563f6f4-52cb-1ded-a39a-359d7d3f315e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b7869430-12c2-1252-04ad-eea2326ca599",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree Pine"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9957dd15-f0ee-b61b-da1d-05cfbec8aa39"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b5958ecb-4621-21fd-fa5d-ee6a08eef3f1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree Pine Small"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5b95122b-8ee9-6de7-c887-3c50e2ee9f37"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3b3a5953-21e9-d222-2bfa-832e3882ea2c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree Pine Snow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d7e325f2-ad54-ff55-7410-c1010d5c425f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "65664d6f-1709-7d7d-9a0d-66dba6c10978",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree Pine Snow Small"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "881a2435-5a86-eb3a-8ab3-b1cf01a99445"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e04e16d8-a7fa-50de-26a0-a8733ab79704",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree Snow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "22f0c201-feb5-9124-70b5-80dc0b33d9f3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a29d8488-158a-97b0-d330-ae6a65924152",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Moving"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b9dfe168-b034-077e-2eba-ca29de7abc3f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c3fb121f-a587-2617-f73f-53834435e12b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Moving Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "08a166a7-c0be-3e72-7028-3d169d46ffa4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "65b04990-2b52-e4af-7aae-f99beb2f4e6c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Moving Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fb32e1c8-aa3c-d886-3bd5-24559cbe9207"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f8a9afe8-d54c-0f9b-5f07-db22e65aeada",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f68eee47-4817-af96-4fde-b4ef44fa8b91"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "51396923-8fd9-f0cb-9d00-0888e1e595fb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Corner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c5192377-77e4-cc3a-051e-9e2c0996b033"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1e61722a-4de6-d906-465a-ffc55d14f1fa",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Corner Low"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "02ab6dbc-3b54-2b3a-2318-905e326325f9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01f6af3b-cec4-3df9-0048-191761186a31",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Corner Overhang"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e572abaf-b728-34f7-661d-41959209cdb9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bc54b6e8-06ab-2cb0-8449-fb9e9ea17de5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Corner Overhang Low"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b83714a7-0db8-d645-0381-4399ad6c8162"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7de1a0d0-6efd-0175-9d81-3a8b708c3155",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Curve"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0c73b422-7e2b-a454-f214-f8af36ad1c9d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e0702261-6bd7-c41a-aef0-29603003cbbf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Curve Half"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3676af02-d26a-48cb-f3f6-88e0f640e486"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ec42fe9c-f2ab-696d-b3cd-390f39813133",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Curve Low"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "75faf5a6-4aa0-e61b-081c-1a19f1c22db7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4e7c232e-6ef5-917c-1648-2a688fdae987",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Edge"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b6d97667-3e1b-58c1-e85e-68954b1dd909"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "15a8bf08-a699-2d14-fbea-eebd5ef07552",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Hexagon"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c1f05936-7906-e0ec-b67b-210a2e1ceddf"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "aaf6169b-2609-efd6-7c7f-56944c7c18cc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "af9be7d8-7b88-4973-d327-8bc8cb1d0e8d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e06b467d-c3aa-ead8-28f1-b0cd485293f7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Large Slope"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "82cbe45e-b112-d1c8-883a-23bdde692646"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fd8b7248-20d9-871e-38c2-dabe55186da0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Large Slope Narrow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c069d8f3-193e-4749-0487-8b653841f1ee"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f4c92c34-62e2-a207-686e-77fbdcac2404",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Large Slope Steep"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ad4f6c31-ae52-d238-31e6-1506535dd4ea"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "be8cd076-d9c7-1142-7957-2d56f301f553",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Large Slope Steep Narrow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38141230-7448-c2f6-241f-544090d4e569"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ce289b4b-70e2-b315-a72e-bc60eb64e8c4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Large Tall"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b9b1ef7a-1df2-d26f-7a77-796f1033f260"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "cf6cfdc9-a279-17c1-9f0f-08d85eaeba45",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Long"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3f376026-ae41-68f3-8d74-5a7b18a0e987"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "19f500fc-e4c3-66d0-d593-5c77b05d7495",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Low"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f45bf981-5705-fe94-ef79-4e9c5d47143e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1bfc118a-4041-93ed-4d45-e542f866b6c4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Low Hexagon"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5f39b625-abfd-90b6-52d1-e2251a34b77f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3ff6cbdb-8b65-b989-ffd5-aa56c870b5c6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Low Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2fd9a182-8cc5-5f7b-556b-eb32ac515456"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bf366b8a-3b7f-28d9-048c-b328124937a8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Low Long"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8dddda93-340e-f5ee-49d2-23c3cd6d89d3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9f39ddbb-91bb-1a68-2f03-878b28dd777f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Low Narrow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "756441e3-156b-5aee-bde4-85273096e843"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b3e548ca-b316-1af0-2307-067c737b5e22",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Narrow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ccc767f7-74f2-596d-63ca-ad244b97a05b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d8466f95-d3eb-a465-97ab-ad0a4eeba9e2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Overhang Corner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "39686ffb-d8ac-544d-a46c-9f11614fddf6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3a974295-46b8-fe37-7b19-daacd59ad362",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Overhang Edge"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7ac72e7d-64ed-0429-3117-c975860ef00a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a42f50bd-3d6b-4236-6a80-24d83380b7bc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Overhang Hexagon"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c8f30b94-f19c-09e1-9e4d-55a747547a42"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "932d613f-fbea-da94-f391-2e630d786e12",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Overhang Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e2bdc2aa-d2d2-4436-9a5f-653d40913a2d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6edebfc1-4c6a-c268-e30b-c2375100f895",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Overhang Large Slope"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b6db54dd-053d-03de-bc43-c00bd4d75320"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ca850479-bef4-e370-232e-2e8a2f076579",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Overhang Large Slope Narrow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "32f07dfe-e82f-0cdd-76fc-b169ea5cc658"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f9c7d3c9-0206-f902-5140-96780dffcde5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Overhang Large Slope Steep"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d472acf7-35d5-bcfe-229f-7838bc5a7c48"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4b585c5f-abb9-b0de-0c5e-483b637f0d03",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Overhang Large Slope Steep Narrow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "db35fe36-21a3-73a0-f34e-d4bcfbc180b5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5c61164a-a961-7989-db53-d97ab26ea838",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Overhang Large Tall"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "23b7eb01-eba3-648e-a96d-e4a6ae34f01a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bb141130-0a3b-5792-7d03-fb3aac292e56",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Overhang Long"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ad346735-c2f6-cd8d-0b63-105d07137930"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4a63ca23-1424-5ff2-5ac0-bafa0f3f8add",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Overhang Low"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "de46ff58-e819-a579-99f2-93a34d6e5232"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2c1fabc4-9650-04f2-705d-6a419b7df2bc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Overhang Low Hexagon"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "744cf905-dfb0-f4f2-5c50-ae9585e96853"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "250e249b-deaa-1209-3dbb-d05a8f187672",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Overhang Low Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0566c4c5-955c-b056-b665-2bd2682d41db"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1ce64e83-3e8f-92bc-e42f-f639adc3c35b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Overhang Low Long"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9e946666-7c3d-0531-4ced-004695d1f1ca"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4f886e0d-9120-f77f-d39e-cb3a2e0c03c2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Overhang Low Narrow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "09b62600-cbe7-4f59-0c69-451b791f5f14"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8d17a029-f4fe-8ed3-2716-d82422af8f83",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Overhang Narrow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f8217617-fae7-cb87-b91d-c81f6e9d9cae"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "07915151-c945-3b2d-1057-f8a3c03f9762",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "633a14f2-509c-f3f4-b609-cbdfb8eaaaf6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "154c21b1-3d57-73ef-1eb7-e7e80b26f3ac",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Corner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3e94f254-2c3f-6583-7119-3b9ce595a4d2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0d2f0f8c-0530-93c9-58e2-4ea126991460",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Corner Low"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "aec20729-afa0-99ba-48f6-1a860f07202a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c77fffb5-219e-4066-ac09-6682d5e88e19",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Corner Overhang"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "25a63343-3814-90ab-862c-861aa0e5f3c2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0b6e4178-922d-5689-2ea4-4728e252bbf6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Corner Overhang Low"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ab06a996-c1c9-f47a-907a-18a43a3551d0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a4221381-24eb-980f-07f1-73f72e3266a1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Curve"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "74b14f60-eba1-30d4-dd48-97615d71e949"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8acdc46c-8c02-520d-1f0f-3a6f2d128468",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Curve Half"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fd5dd86f-9e37-d3e0-719b-aa23e32695ec"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6708f983-3340-7666-32ba-d0017e2f262a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Curve Low"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "acad5cdb-21c5-1f1a-832d-64c474d0436f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "12644f4e-474e-0383-191c-d2351b99c36e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Edge"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a6c416f3-25f7-aefc-ac8a-91d8f840ef8d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "efa61709-9b48-3145-4cf3-d9ef5249812f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Hexagon"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "db394f95-75af-9a12-31bd-ca267a755624"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b6ba4269-6e52-b7ba-7327-46e7b0b5aa2c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bf12ecf3-0625-3c6f-cd0f-e147a4f5213c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0da6ff11-9553-7e88-d65b-cc9310619956",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Large Slope"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d320d911-9449-b386-6077-b44b1d888f0f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5796b7e1-3f57-2e91-d7db-558ef49e6b5d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Large Slope Narrow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8510a800-e58a-a8b0-f3af-7c8fb4c45727"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5f0f4bf0-8c0c-530f-b413-ac49210a929a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Large Slope Steep"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "11c8752b-ec86-d7e3-eaf3-c66e29dc6ff5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ef8811c6-43bc-8ebf-fda1-72f93382b170",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Large Slope Steep Narrow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fa052df6-b44e-194e-60f9-83d3d5ef11c8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3c592c48-0361-b81e-a9ac-c3079ef3c282",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Large Tall"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "48c44a53-7eb3-e6d3-a024-7eb3f29948ca"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5720ab8d-b9b0-3c66-72bf-c7f621e2c9e3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Long"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e29feb70-cfcf-1cd9-8722-6a1f7e9dfa30"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "dfeb0f9d-cbb6-a29c-b1a6-4669d39c18c2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Low"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f40b1c3d-3930-6f1b-c1e1-8e26a9d408ed"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "68bd9a0f-553a-1955-34ac-390bb65e5003",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Low Hexagon"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5d5c1ea2-bc28-c9d1-525e-26747c6c94bc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "36cb044d-2a29-f8a8-8bdb-00208abd390e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Low Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "011cae6d-c0ae-264c-3a8a-cf461f886111"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "cea8007d-e0b0-629b-b9f2-61a1a933664d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Low Long"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e46ad7b5-3abc-f721-7942-011d03ebb3cf"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4a2876e2-cc55-b437-9fb3-e5c4a86dadb0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Low Narrow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ddc61f4d-bfc6-c73d-9922-27cf83366480"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "caeed919-57e4-97ab-a14d-46407100b952",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Narrow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3d8edfb4-4803-0bd8-3f41-69b25b968376"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "49eb9a47-a587-229a-7b07-d510979a0085",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Overhang Corner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fe79b3b3-9405-554e-b050-0c76fccde7e8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "42f34f69-e36e-200a-417d-77f8fd1b32ba",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Overhang Edge"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c5c8b3f1-676c-1a5e-9106-336f61cb6a18"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "63a3e1b8-e85b-c94b-50fa-9ba73e4c69a7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Overhang Hexagon"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "56678230-7a42-466a-3ed0-20c9af2a8d0f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "aa328153-afbe-2dfd-30d1-46d88099f9da",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Overhang Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2889e1d3-88ca-e66b-4b0d-8ae5e5c4dd84"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b57bba15-3e06-f22c-b615-0940c35cff33",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Overhang Large Slope"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b1b64680-8e74-0d91-c1e5-c5bfbb9bd798"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "baaaae71-adde-473f-891f-91dd1beca892",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Overhang Large Slope Narrow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "dcadc308-6c4b-7839-3dc3-2bd82160233e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3432e94f-feb4-737b-d539-7be1f3ba589e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Overhang Large Slope Steep"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "84acbde3-e1d5-a687-582f-29efb8baa49f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d417990e-ed03-d310-694e-a06bf06568fa",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Overhang Large Slope Steep Narrow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "266b41db-8075-7ea8-611b-b1697a072e68"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6138d8e5-634e-7613-7de5-afa484fa433e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Overhang Large Tall"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7e15e065-6ae2-b97d-4716-f9bc4829b43f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "713c0ea2-f2c9-396e-57e2-9a8f4c9ee2ce",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Overhang Long"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "cca03a1f-7132-5c61-fced-d37dcd1399fb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a5c40f54-0996-0ea8-34d1-5bdb2064e1ea",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Overhang Low"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ecc6a005-9f42-3ce3-3337-85759c7a71db"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1df4e83f-2afd-31ba-51cb-a2a74705e0ea",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Overhang Low Hexagon"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9e9d7efb-749a-6dd4-7519-570c5ad77bb4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01212db1-3d71-08cc-dadd-93c1e562574d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Overhang Low Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d13a7b62-efde-a975-eade-8d1ae3996a82"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "52fb66ca-5301-739c-ec51-e6957c3e1013",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Overhang Low Long"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8f42fe93-bede-4910-24e0-e8e5108f82c0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "05661b55-eb32-b19a-3a40-e6d6669ccee3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Overhang Low Narrow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "228a3b35-f018-23bb-e926-74471b960d3e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "83fe53bf-d8d8-f67a-4ad4-e10ba6d3bf32",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Overhang Narrow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "663c1f7c-f879-0805-35d4-9c6aaf5e3522"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "814a8a47-9da5-48d2-6b51-942f4645b93f"
+    },
+    "dependencies": [
+        "610f5d4e-5291-63f8-b258-fcb8c24fc51f",
+        "f42931c2-385a-aef7-676d-2d370fb03d40",
+        "1a3972b4-75ea-33c7-5c3c-1a6da22d1038",
+        "7e2b1139-000c-73a0-0c1c-78482f8b1166",
+        "ed671d77-d40a-fcbf-1155-c3791d040430",
+        "d3b291f3-671a-a930-6ad0-94e5bb2dd4ea",
+        "256aa3b8-354f-1d47-df7c-fc5a1fbf960c",
+        "f476483c-c26d-a09b-f02c-5c5e60a13dff",
+        "a9acaadc-d56d-e719-acb5-1803eaff648d",
+        "9bb0f8e4-f977-778d-dfc6-3fee0b929127",
+        "b514081c-a63b-c093-5636-a1cd139112fb",
+        "d4223d4d-9e9a-64aa-7caa-d9b34e359f63",
+        "e8349c62-1ae5-d869-86bc-3a1c84f968af",
+        "4e29a2d2-508f-802f-ca23-1bab2eeac81a",
+        "b9378cfa-0260-ed59-a000-47014fd2355d",
+        "8f341681-4713-0264-8123-df3aa8effd44",
+        "bbacabd0-af2f-090d-3f43-39f68363c57d",
+        "1badfa3c-e2ee-02e3-41b7-cdf5438e6d41",
+        "d62d2474-d54b-7862-93f1-67ab0e3222a5",
+        "ba50f56f-4ba7-9c79-0618-28d3a190992e",
+        "de509329-c8ec-af7e-3322-59fc93510a01",
+        "05595b1f-93d5-1e41-7f84-051b87d339e0",
+        "b27e64bb-8d8c-d6ab-b20a-abffc9f533db",
+        "7ed80c61-452a-c0c0-bd2c-f5ac7db42166",
+        "e7c649e4-e9db-3d1f-acf2-237325fb822b",
+        "0b787b64-fcdf-1da8-ae4a-0e556425c818",
+        "824f841a-b793-4ef4-71fa-1c01aa4a8941",
+        "867aa095-5aca-16d5-4314-de3ee8685146",
+        "ee4d6ebe-b535-4826-212c-61514565d589",
+        "2faf1835-90a3-c1e4-ce22-6d192eb9b750",
+        "8e5fdbab-223f-c855-2393-fad2367411dc",
+        "89c970c1-f630-e7f4-cead-8a3320d9f906",
+        "d355ec57-df28-48c6-b935-517a28b99544",
+        "d8dea020-9546-5e9b-ba86-9e72ee741b10",
+        "6c0818bc-b14b-86a4-7d56-6f6b9bf3faca",
+        "c61464cf-4330-5df8-5e76-9fe9afc15094",
+        "b27c0c5b-82e9-e4f4-b7da-269ab07d85cb",
+        "419d905a-04fc-04f2-0d3e-409ab1632835",
+        "41a38fe3-6bf6-ea29-7efe-0eeb89f998f6",
+        "68bb3fab-dd98-499f-3e85-36f1fc9f2f7d",
+        "0eaacdfd-9a58-b013-1934-1a2c6ad73008",
+        "11b9de17-9ef3-2efb-1ca3-a501502d5efd",
+        "78a4ed49-d0fe-5870-6400-6f923ddf0900",
+        "76de205c-047d-790e-7b17-dc82357450dc",
+        "aec78e2b-3ea8-1a78-20fc-7aaef97d8026",
+        "89ad4257-6126-7fdf-592b-e696740ca6f7",
+        "0d8455c7-42fb-e4e6-209a-7d4602d5a0f3",
+        "1bf9c0c6-9ef0-b7ab-fec4-8006d4d9e7d3",
+        "dd7478f8-6cea-c978-12d3-b09f767d8b3d",
+        "6196c02f-0826-a61a-b67e-595061441e81",
+        "7b56bea7-c64b-382e-ae92-d832b9b9b204",
+        "021c1c80-4c5b-977f-fe0d-790536ee79a9",
+        "f34558cd-3895-4ebb-2ca6-5583b0c7ff81",
+        "d54d1488-bfd1-238d-4502-10f21b921980",
+        "fa3a8dbe-de56-e837-8615-99a42b357150",
+        "cbd481c0-b84e-a6c3-67db-3f31fe4f9a4a",
+        "d1effb3e-f1a0-f499-492e-d36cbe6447db",
+        "d5b8fbfa-15cc-c78b-cf09-a518aba45e94",
+        "9438295a-c471-e3c5-e9a9-7bf81ce5d164",
+        "0325fcdf-c162-8636-3eb9-b0e6743668f8",
+        "b01441fe-1332-ba69-2302-ba4d6aecd93f",
+        "c76b839e-60bc-1857-ea51-734e918bab12",
+        "25520638-1520-2f52-5fad-a295c46fd25f",
+        "e11cde57-54f8-7ff6-3c80-5ac5aa06bd76",
+        "6563f6f4-52cb-1ded-a39a-359d7d3f315e",
+        "9957dd15-f0ee-b61b-da1d-05cfbec8aa39",
+        "5b95122b-8ee9-6de7-c887-3c50e2ee9f37",
+        "d7e325f2-ad54-ff55-7410-c1010d5c425f",
+        "881a2435-5a86-eb3a-8ab3-b1cf01a99445",
+        "22f0c201-feb5-9124-70b5-80dc0b33d9f3",
+        "b9dfe168-b034-077e-2eba-ca29de7abc3f",
+        "08a166a7-c0be-3e72-7028-3d169d46ffa4",
+        "fb32e1c8-aa3c-d886-3bd5-24559cbe9207",
+        "f68eee47-4817-af96-4fde-b4ef44fa8b91",
+        "c5192377-77e4-cc3a-051e-9e2c0996b033",
+        "02ab6dbc-3b54-2b3a-2318-905e326325f9",
+        "e572abaf-b728-34f7-661d-41959209cdb9",
+        "b83714a7-0db8-d645-0381-4399ad6c8162",
+        "0c73b422-7e2b-a454-f214-f8af36ad1c9d",
+        "3676af02-d26a-48cb-f3f6-88e0f640e486",
+        "75faf5a6-4aa0-e61b-081c-1a19f1c22db7",
+        "b6d97667-3e1b-58c1-e85e-68954b1dd909",
+        "c1f05936-7906-e0ec-b67b-210a2e1ceddf",
+        "af9be7d8-7b88-4973-d327-8bc8cb1d0e8d",
+        "82cbe45e-b112-d1c8-883a-23bdde692646",
+        "c069d8f3-193e-4749-0487-8b653841f1ee",
+        "ad4f6c31-ae52-d238-31e6-1506535dd4ea",
+        "38141230-7448-c2f6-241f-544090d4e569",
+        "b9b1ef7a-1df2-d26f-7a77-796f1033f260",
+        "3f376026-ae41-68f3-8d74-5a7b18a0e987",
+        "f45bf981-5705-fe94-ef79-4e9c5d47143e",
+        "5f39b625-abfd-90b6-52d1-e2251a34b77f",
+        "2fd9a182-8cc5-5f7b-556b-eb32ac515456",
+        "8dddda93-340e-f5ee-49d2-23c3cd6d89d3",
+        "756441e3-156b-5aee-bde4-85273096e843",
+        "ccc767f7-74f2-596d-63ca-ad244b97a05b",
+        "39686ffb-d8ac-544d-a46c-9f11614fddf6",
+        "7ac72e7d-64ed-0429-3117-c975860ef00a",
+        "c8f30b94-f19c-09e1-9e4d-55a747547a42",
+        "e2bdc2aa-d2d2-4436-9a5f-653d40913a2d",
+        "b6db54dd-053d-03de-bc43-c00bd4d75320",
+        "32f07dfe-e82f-0cdd-76fc-b169ea5cc658",
+        "d472acf7-35d5-bcfe-229f-7838bc5a7c48",
+        "db35fe36-21a3-73a0-f34e-d4bcfbc180b5",
+        "23b7eb01-eba3-648e-a96d-e4a6ae34f01a",
+        "ad346735-c2f6-cd8d-0b63-105d07137930",
+        "de46ff58-e819-a579-99f2-93a34d6e5232",
+        "744cf905-dfb0-f4f2-5c50-ae9585e96853",
+        "0566c4c5-955c-b056-b665-2bd2682d41db",
+        "9e946666-7c3d-0531-4ced-004695d1f1ca",
+        "09b62600-cbe7-4f59-0c69-451b791f5f14",
+        "f8217617-fae7-cb87-b91d-c81f6e9d9cae",
+        "633a14f2-509c-f3f4-b609-cbdfb8eaaaf6",
+        "3e94f254-2c3f-6583-7119-3b9ce595a4d2",
+        "aec20729-afa0-99ba-48f6-1a860f07202a",
+        "25a63343-3814-90ab-862c-861aa0e5f3c2",
+        "ab06a996-c1c9-f47a-907a-18a43a3551d0",
+        "74b14f60-eba1-30d4-dd48-97615d71e949",
+        "fd5dd86f-9e37-d3e0-719b-aa23e32695ec",
+        "acad5cdb-21c5-1f1a-832d-64c474d0436f",
+        "a6c416f3-25f7-aefc-ac8a-91d8f840ef8d",
+        "db394f95-75af-9a12-31bd-ca267a755624",
+        "bf12ecf3-0625-3c6f-cd0f-e147a4f5213c",
+        "d320d911-9449-b386-6077-b44b1d888f0f",
+        "8510a800-e58a-a8b0-f3af-7c8fb4c45727",
+        "11c8752b-ec86-d7e3-eaf3-c66e29dc6ff5",
+        "fa052df6-b44e-194e-60f9-83d3d5ef11c8",
+        "48c44a53-7eb3-e6d3-a024-7eb3f29948ca",
+        "e29feb70-cfcf-1cd9-8722-6a1f7e9dfa30",
+        "f40b1c3d-3930-6f1b-c1e1-8e26a9d408ed",
+        "5d5c1ea2-bc28-c9d1-525e-26747c6c94bc",
+        "011cae6d-c0ae-264c-3a8a-cf461f886111",
+        "e46ad7b5-3abc-f721-7942-011d03ebb3cf",
+        "ddc61f4d-bfc6-c73d-9922-27cf83366480",
+        "3d8edfb4-4803-0bd8-3f41-69b25b968376",
+        "fe79b3b3-9405-554e-b050-0c76fccde7e8",
+        "c5c8b3f1-676c-1a5e-9106-336f61cb6a18",
+        "56678230-7a42-466a-3ed0-20c9af2a8d0f",
+        "2889e1d3-88ca-e66b-4b0d-8ae5e5c4dd84",
+        "b1b64680-8e74-0d91-c1e5-c5bfbb9bd798",
+        "dcadc308-6c4b-7839-3dc3-2bd82160233e",
+        "84acbde3-e1d5-a687-582f-29efb8baa49f",
+        "266b41db-8075-7ea8-611b-b1697a072e68",
+        "7e15e065-6ae2-b97d-4716-f9bc4829b43f",
+        "cca03a1f-7132-5c61-fced-d37dcd1399fb",
+        "ecc6a005-9f42-3ce3-3337-85759c7a71db",
+        "9e9d7efb-749a-6dd4-7519-570c5ad77bb4",
+        "d13a7b62-efde-a975-eade-8d1ae3996a82",
+        "8f42fe93-bede-4910-24e0-e8e5108f82c0",
+        "228a3b35-f018-23bb-e926-74471b960d3e",
+        "663c1f7c-f879-0805-35d4-9c6aaf5e3522"
+    ]
+}

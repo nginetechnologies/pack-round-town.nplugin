@@ -1,1 +1,75 @@
-{"guid":"8e5fdbab-223f-c855-2393-fad2367411dc","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"de583675-3276-2ffa-44e4-095598daf449","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"a7f1c622-4c19-a43f-ba60-dd6bc2935c22","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Fence Straight Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"5ee18264-4dc9-105c-fcdf-bbc5a46179b4","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Fence Straight Round Town Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"57aeeca3-757c-5324-e22b-194563a544e0","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Fence Straight Round Town"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"eca9fdd9-72e3-3d63-1fc0-a4d4102c4f8a","material_instance":"3576ac72-d8d6-1d17-a9ac-2d495d338249"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"eca9fdd9-72e3-3d63-1fc0-a4d4102c4f8a"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"8e5fdbab-223f-c855-2393-fad2367411dc"},"dependencies":["3576ac72-d8d6-1d17-a9ac-2d495d338249","eca9fdd9-72e3-3d63-1fc0-a4d4102c4f8a","db5dc618-2cfe-44e9-a319-69c503d090e7"],"thumbnailGuid":"9d58a31d-0c5d-62c5-4093-7a6c44e39c68"}
+{
+    "guid": "8e5fdbab-223f-c855-2393-fad2367411dc",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "de583675-3276-2ffa-44e4-095598daf449",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "a7f1c622-4c19-a43f-ba60-dd6bc2935c22",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence Straight Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "5ee18264-4dc9-105c-fcdf-bbc5a46179b4",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Fence Straight Round Town Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "57aeeca3-757c-5324-e22b-194563a544e0",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Fence Straight Round Town"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "eca9fdd9-72e3-3d63-1fc0-a4d4102c4f8a",
+                                "material_instance": "3576ac72-d8d6-1d17-a9ac-2d495d338249"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "eca9fdd9-72e3-3d63-1fc0-a4d4102c4f8a"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "8e5fdbab-223f-c855-2393-fad2367411dc"
+    },
+    "dependencies": [
+        "3576ac72-d8d6-1d17-a9ac-2d495d338249",
+        "eca9fdd9-72e3-3d63-1fc0-a4d4102c4f8a",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ],
+    "thumbnailGuid": "9d58a31d-0c5d-62c5-4093-7a6c44e39c68"
+}

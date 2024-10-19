@@ -1,1 +1,75 @@
-{"guid":"7b56bea7-c64b-382e-ae92-d832b9b9b204","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"14d5c099-2af8-ca4a-1b2b-91a1d17570c2","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"6df5c61b-5ddc-c24c-8fa2-f2343affeaa0","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Platform Overhang Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"fa85ded5-5929-5622-f21b-c903eaab6aec","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Platform Overhang Round Town Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"0df4216d-28f8-4130-c5d6-b02f6adcc35a","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Platform Overhang Round Town"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"3dc612c9-19ad-e1f8-4a00-65cf3ba2516d","material_instance":"3576ac72-d8d6-1d17-a9ac-2d495d338249"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"3dc612c9-19ad-e1f8-4a00-65cf3ba2516d"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"7b56bea7-c64b-382e-ae92-d832b9b9b204"},"dependencies":["3576ac72-d8d6-1d17-a9ac-2d495d338249","3dc612c9-19ad-e1f8-4a00-65cf3ba2516d","db5dc618-2cfe-44e9-a319-69c503d090e7"],"thumbnailGuid":"43fd2a91-5275-4442-70d5-451122c7ecdd"}
+{
+    "guid": "7b56bea7-c64b-382e-ae92-d832b9b9b204",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "14d5c099-2af8-ca4a-1b2b-91a1d17570c2",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "6df5c61b-5ddc-c24c-8fa2-f2343affeaa0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Platform Overhang Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "fa85ded5-5929-5622-f21b-c903eaab6aec",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Platform Overhang Round Town Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "0df4216d-28f8-4130-c5d6-b02f6adcc35a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Platform Overhang Round Town"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "3dc612c9-19ad-e1f8-4a00-65cf3ba2516d",
+                                "material_instance": "3576ac72-d8d6-1d17-a9ac-2d495d338249"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "3dc612c9-19ad-e1f8-4a00-65cf3ba2516d"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "7b56bea7-c64b-382e-ae92-d832b9b9b204"
+    },
+    "dependencies": [
+        "3576ac72-d8d6-1d17-a9ac-2d495d338249",
+        "3dc612c9-19ad-e1f8-4a00-65cf3ba2516d",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ],
+    "thumbnailGuid": "43fd2a91-5275-4442-70d5-451122c7ecdd"
+}

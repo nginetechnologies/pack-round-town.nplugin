@@ -1,1 +1,75 @@
-{"guid":"e2bdc2aa-d2d2-4436-9a5f-653d40913a2d","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"a0cc9ef5-ee54-9853-bbfb-d2861375c5ac","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"d8180f2d-0cf7-f2dd-666d-d9f9ee50c7c1","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Block Grass Overhang Large Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"a4eee6d2-eeeb-5c39-5103-73328b25463b","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Block Grass Overhang Large Round Town Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"a10c61e9-9091-10c0-0011-f0922fe97dd2","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Block Grass Overhang Large Round Town"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"41604fb5-739f-8e75-7869-faa1b9f20386","material_instance":"3576ac72-d8d6-1d17-a9ac-2d495d338249"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"41604fb5-739f-8e75-7869-faa1b9f20386"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"e2bdc2aa-d2d2-4436-9a5f-653d40913a2d"},"dependencies":["3576ac72-d8d6-1d17-a9ac-2d495d338249","41604fb5-739f-8e75-7869-faa1b9f20386","db5dc618-2cfe-44e9-a319-69c503d090e7"],"thumbnailGuid":"f0ed6500-25f7-43ee-687f-509b7199a15f"}
+{
+    "guid": "e2bdc2aa-d2d2-4436-9a5f-653d40913a2d",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "a0cc9ef5-ee54-9853-bbfb-d2861375c5ac",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "d8180f2d-0cf7-f2dd-666d-d9f9ee50c7c1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Grass Overhang Large Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "a4eee6d2-eeeb-5c39-5103-73328b25463b",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Block Grass Overhang Large Round Town Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "a10c61e9-9091-10c0-0011-f0922fe97dd2",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Block Grass Overhang Large Round Town"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "41604fb5-739f-8e75-7869-faa1b9f20386",
+                                "material_instance": "3576ac72-d8d6-1d17-a9ac-2d495d338249"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "41604fb5-739f-8e75-7869-faa1b9f20386"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "e2bdc2aa-d2d2-4436-9a5f-653d40913a2d"
+    },
+    "dependencies": [
+        "3576ac72-d8d6-1d17-a9ac-2d495d338249",
+        "41604fb5-739f-8e75-7869-faa1b9f20386",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ],
+    "thumbnailGuid": "f0ed6500-25f7-43ee-687f-509b7199a15f"
+}

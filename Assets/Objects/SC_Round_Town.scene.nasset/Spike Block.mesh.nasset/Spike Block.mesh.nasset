@@ -1,1 +1,75 @@
-{"guid":"d5b8fbfa-15cc-c78b-cf09-a518aba45e94","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"a4ff95c6-ba01-4af7-77e4-4537cc9d50ed","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"9feb2571-dd6f-8ef3-62aa-4dca034ddec2","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Spike Block Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"74b6db9e-cc82-eb85-9ba3-9ad1e7ba3438","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Spike Block Round Town Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"9c555d7d-f856-8eee-a5d2-19a0cb2d058d","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Spike Block Round Town"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"f050758a-a674-8579-8c5f-9a4955c1e007","material_instance":"3576ac72-d8d6-1d17-a9ac-2d495d338249"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"f050758a-a674-8579-8c5f-9a4955c1e007"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"d5b8fbfa-15cc-c78b-cf09-a518aba45e94"},"dependencies":["3576ac72-d8d6-1d17-a9ac-2d495d338249","f050758a-a674-8579-8c5f-9a4955c1e007","db5dc618-2cfe-44e9-a319-69c503d090e7"],"thumbnailGuid":"aa6f70d5-8909-ea26-ce1a-5943fca622fe"}
+{
+    "guid": "d5b8fbfa-15cc-c78b-cf09-a518aba45e94",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "a4ff95c6-ba01-4af7-77e4-4537cc9d50ed",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "9feb2571-dd6f-8ef3-62aa-4dca034ddec2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spike Block Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "74b6db9e-cc82-eb85-9ba3-9ad1e7ba3438",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Spike Block Round Town Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "9c555d7d-f856-8eee-a5d2-19a0cb2d058d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Spike Block Round Town"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "f050758a-a674-8579-8c5f-9a4955c1e007",
+                                "material_instance": "3576ac72-d8d6-1d17-a9ac-2d495d338249"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "f050758a-a674-8579-8c5f-9a4955c1e007"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "d5b8fbfa-15cc-c78b-cf09-a518aba45e94"
+    },
+    "dependencies": [
+        "3576ac72-d8d6-1d17-a9ac-2d495d338249",
+        "f050758a-a674-8579-8c5f-9a4955c1e007",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ],
+    "thumbnailGuid": "aa6f70d5-8909-ea26-ce1a-5943fca622fe"
+}

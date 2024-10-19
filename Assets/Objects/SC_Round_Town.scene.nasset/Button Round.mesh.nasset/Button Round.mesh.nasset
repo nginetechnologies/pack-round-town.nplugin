@@ -1,1 +1,75 @@
-{"guid":"ed671d77-d40a-fcbf-1155-c3791d040430","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"c359eef4-c37d-4b0a-a6a9-265a23ab9108","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"bb7c286b-b64d-f2d6-43bd-6999899a76ab","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Button Round Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"3ff3b7c1-70ee-e461-1d47-bdab30ea4c87","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Button Round Round Town Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"0dcefff9-458f-75bc-8e10-22b850c7aeb7","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Button Round Round Town"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"a41c659f-60a5-c827-13db-b81c60ea0104","material_instance":"3576ac72-d8d6-1d17-a9ac-2d495d338249"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"a41c659f-60a5-c827-13db-b81c60ea0104"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"ed671d77-d40a-fcbf-1155-c3791d040430"},"dependencies":["3576ac72-d8d6-1d17-a9ac-2d495d338249","a41c659f-60a5-c827-13db-b81c60ea0104","db5dc618-2cfe-44e9-a319-69c503d090e7"],"thumbnailGuid":"412cbc20-ece4-e4b9-e2c8-c0153022e7d2"}
+{
+    "guid": "ed671d77-d40a-fcbf-1155-c3791d040430",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "c359eef4-c37d-4b0a-a6a9-265a23ab9108",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "bb7c286b-b64d-f2d6-43bd-6999899a76ab",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Button Round Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "3ff3b7c1-70ee-e461-1d47-bdab30ea4c87",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Button Round Round Town Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "0dcefff9-458f-75bc-8e10-22b850c7aeb7",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Button Round Round Town"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "a41c659f-60a5-c827-13db-b81c60ea0104",
+                                "material_instance": "3576ac72-d8d6-1d17-a9ac-2d495d338249"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "a41c659f-60a5-c827-13db-b81c60ea0104"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "ed671d77-d40a-fcbf-1155-c3791d040430"
+    },
+    "dependencies": [
+        "3576ac72-d8d6-1d17-a9ac-2d495d338249",
+        "a41c659f-60a5-c827-13db-b81c60ea0104",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ],
+    "thumbnailGuid": "412cbc20-ece4-e4b9-e2c8-c0153022e7d2"
+}

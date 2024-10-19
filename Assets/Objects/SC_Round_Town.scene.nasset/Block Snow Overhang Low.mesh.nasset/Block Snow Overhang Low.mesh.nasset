@@ -1,1 +1,75 @@
-{"guid":"ecc6a005-9f42-3ce3-3337-85759c7a71db","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"6573f48a-acce-d744-7ab7-4fb09c86c864","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"08053d49-f14f-65fd-28c5-be49c24c0ae8","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Block Snow Overhang Low Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"f4153a49-c55d-5c2f-888d-70990de925e4","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Block Snow Overhang Low Round Town Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"6acbd209-a3c4-49c4-e17f-2398b05ce935","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Block Snow Overhang Low Round Town"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"062ed70b-bd59-4f17-7f4b-8aac218da61f","material_instance":"3576ac72-d8d6-1d17-a9ac-2d495d338249"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"062ed70b-bd59-4f17-7f4b-8aac218da61f"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"ecc6a005-9f42-3ce3-3337-85759c7a71db"},"dependencies":["3576ac72-d8d6-1d17-a9ac-2d495d338249","062ed70b-bd59-4f17-7f4b-8aac218da61f","db5dc618-2cfe-44e9-a319-69c503d090e7"],"thumbnailGuid":"cab346bb-072a-6b41-36dd-808dd356f80d"}
+{
+    "guid": "ecc6a005-9f42-3ce3-3337-85759c7a71db",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "6573f48a-acce-d744-7ab7-4fb09c86c864",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "08053d49-f14f-65fd-28c5-be49c24c0ae8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Snow Overhang Low Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "f4153a49-c55d-5c2f-888d-70990de925e4",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Block Snow Overhang Low Round Town Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "6acbd209-a3c4-49c4-e17f-2398b05ce935",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Block Snow Overhang Low Round Town"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "062ed70b-bd59-4f17-7f4b-8aac218da61f",
+                                "material_instance": "3576ac72-d8d6-1d17-a9ac-2d495d338249"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "062ed70b-bd59-4f17-7f4b-8aac218da61f"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "ecc6a005-9f42-3ce3-3337-85759c7a71db"
+    },
+    "dependencies": [
+        "3576ac72-d8d6-1d17-a9ac-2d495d338249",
+        "062ed70b-bd59-4f17-7f4b-8aac218da61f",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ],
+    "thumbnailGuid": "cab346bb-072a-6b41-36dd-808dd356f80d"
+}

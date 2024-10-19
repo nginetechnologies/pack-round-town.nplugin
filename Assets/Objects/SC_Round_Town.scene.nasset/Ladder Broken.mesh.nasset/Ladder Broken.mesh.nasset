@@ -1,1 +1,75 @@
-{"guid":"11b9de17-9ef3-2efb-1ca3-a501502d5efd","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"d568e9b3-5d85-77a5-7f5d-e8ab6f3bd388","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"63d724b1-2461-c4fa-c727-15bad0f71a30","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Ladder Broken Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"a486eea5-a6e9-8086-da45-a6a808d2e427","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Ladder Broken Round Town Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"11388d43-9b5c-b8d0-4a3c-2a1bb624fd67","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Ladder Broken Round Town"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"15ec9334-f42e-2cc7-9b37-2e53c52e5d33","material_instance":"3576ac72-d8d6-1d17-a9ac-2d495d338249"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"15ec9334-f42e-2cc7-9b37-2e53c52e5d33"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"11b9de17-9ef3-2efb-1ca3-a501502d5efd"},"dependencies":["3576ac72-d8d6-1d17-a9ac-2d495d338249","15ec9334-f42e-2cc7-9b37-2e53c52e5d33","db5dc618-2cfe-44e9-a319-69c503d090e7"],"thumbnailGuid":"45576983-22c6-d6c1-249f-73ec53613705"}
+{
+    "guid": "11b9de17-9ef3-2efb-1ca3-a501502d5efd",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "d568e9b3-5d85-77a5-7f5d-e8ab6f3bd388",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "63d724b1-2461-c4fa-c727-15bad0f71a30",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ladder Broken Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "a486eea5-a6e9-8086-da45-a6a808d2e427",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Ladder Broken Round Town Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "11388d43-9b5c-b8d0-4a3c-2a1bb624fd67",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Ladder Broken Round Town"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "15ec9334-f42e-2cc7-9b37-2e53c52e5d33",
+                                "material_instance": "3576ac72-d8d6-1d17-a9ac-2d495d338249"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "15ec9334-f42e-2cc7-9b37-2e53c52e5d33"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "11b9de17-9ef3-2efb-1ca3-a501502d5efd"
+    },
+    "dependencies": [
+        "3576ac72-d8d6-1d17-a9ac-2d495d338249",
+        "15ec9334-f42e-2cc7-9b37-2e53c52e5d33",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ],
+    "thumbnailGuid": "45576983-22c6-d6c1-249f-73ec53613705"
+}

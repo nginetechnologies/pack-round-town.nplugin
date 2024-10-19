@@ -1,1 +1,75 @@
-{"guid":"610f5d4e-5291-63f8-b258-fcb8c24fc51f","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"8bb95dc4-6827-977b-4e80-1880e7024ba5","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"945f13aa-0264-0566-0c22-874118be988f","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Arrow Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"b280948e-8fef-58ff-ed60-64d35af3fd65","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Arrow Round Town Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"25bef71e-6cdf-10c0-e9bd-c3c183fe0003","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Arrow Round Town"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"0282770d-4920-06f4-e5bc-06d556bf2a6a","material_instance":"3576ac72-d8d6-1d17-a9ac-2d495d338249"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"0282770d-4920-06f4-e5bc-06d556bf2a6a"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"610f5d4e-5291-63f8-b258-fcb8c24fc51f"},"dependencies":["3576ac72-d8d6-1d17-a9ac-2d495d338249","0282770d-4920-06f4-e5bc-06d556bf2a6a","db5dc618-2cfe-44e9-a319-69c503d090e7"],"thumbnailGuid":"5fb466c3-650f-0a41-2f60-06f7f296ca36"}
+{
+    "guid": "610f5d4e-5291-63f8-b258-fcb8c24fc51f",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "8bb95dc4-6827-977b-4e80-1880e7024ba5",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "945f13aa-0264-0566-0c22-874118be988f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Arrow Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "b280948e-8fef-58ff-ed60-64d35af3fd65",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Arrow Round Town Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "25bef71e-6cdf-10c0-e9bd-c3c183fe0003",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Arrow Round Town"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "0282770d-4920-06f4-e5bc-06d556bf2a6a",
+                                "material_instance": "3576ac72-d8d6-1d17-a9ac-2d495d338249"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "0282770d-4920-06f4-e5bc-06d556bf2a6a"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "610f5d4e-5291-63f8-b258-fcb8c24fc51f"
+    },
+    "dependencies": [
+        "3576ac72-d8d6-1d17-a9ac-2d495d338249",
+        "0282770d-4920-06f4-e5bc-06d556bf2a6a",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ],
+    "thumbnailGuid": "5fb466c3-650f-0a41-2f60-06f7f296ca36"
+}

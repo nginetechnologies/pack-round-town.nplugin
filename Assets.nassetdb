@@ -25,6 +25,106 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "01935434-c2ad-78ab-a77c-acaa4868e423": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Round_Town.scene.nasset/Stones.001.mesh.nasset/Stones.001 Round Town.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3576ac72-d8d6-1d17-a9ac-2d495d338249",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01935434-c2ad-7b89-f705-f60303c194ba": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Round_Town.scene.nasset/Stones.001.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "3576ac72-d8d6-1d17-a9ac-2d495d338249",
+            "01935434-c2ad-78ab-a77c-acaa4868e423",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01935434-c2ae-7895-ec48-5a494b9c0dab": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Round_Town.scene.nasset/Trap Spikes Large Frame.001.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "3576ac72-d8d6-1d17-a9ac-2d495d338249",
+            "01935434-c2ae-7b96-b26d-d04b9761c329",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01935434-c2ae-7b96-b26d-d04b9761c329": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Round_Town.scene.nasset/Trap Spikes Large Frame.001.mesh.nasset/Trap Spikes Large Frame.001 Round Town.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3576ac72-d8d6-1d17-a9ac-2d495d338249",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01935436-8491-74aa-bc91-4c12fa258260": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Round_Town.scene.nasset/Stones.001.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "3576ac72-d8d6-1d17-a9ac-2d495d338249",
+            "01935436-8491-76af-8b9a-18dabb6bd18b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01935436-8491-76af-8b9a-18dabb6bd18b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Round_Town.scene.nasset/Stones.001.mesh.nasset/Stones.001 Round Town.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3576ac72-d8d6-1d17-a9ac-2d495d338249",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01935436-8492-708f-00c5-4378eebbb5cb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Round_Town.scene.nasset/Trap Spikes Large Frame.001.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "3576ac72-d8d6-1d17-a9ac-2d495d338249",
+            "01935436-8492-7192-9ea9-4dea9d3de5c5",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01935436-8492-7192-9ea9-4dea9d3de5c5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Round_Town.scene.nasset/Trap Spikes Large Frame.001.mesh.nasset/Trap Spikes Large Frame.001 Round Town.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3576ac72-d8d6-1d17-a9ac-2d495d338249",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
     "021c1c80-4c5b-977f-fe0d-790536ee79a9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
